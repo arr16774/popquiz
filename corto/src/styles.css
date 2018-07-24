@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+body {
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+  }
+
+.graficas{
+    display: inline-block;
+    flex-direction: row;
+    height: 50px;
+    width: 100%;
+
+}
+
+
+
+.barritas-div{
+    display: flex;
+    flex-direction: row;
+    
+    background-color: green;
+    margin: 5px;
+    width: 10px;
+}
